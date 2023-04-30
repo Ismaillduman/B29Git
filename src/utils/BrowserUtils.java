@@ -8,5 +8,7 @@ public class BrowserUtils {
     //open browser util
 
     // some news..
+
+    // search util
 }
 
